@@ -1,1 +1,1 @@
-# pawly initial app Setup
+# pawly app Setup
